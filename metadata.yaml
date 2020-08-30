@@ -1,0 +1,28 @@
+_repo: Craters-of-the-Moon-A-Guide-to-Craters-of-the-Moon-National-Monument-Idaho_62994
+_version: 0.0.1
+creator:
+  author:
+    agent_name: United States. National Park Service. Division of Publications
+    alias: United States. National Park Service. Office of Publications
+    gutenberg_agent_id: '48149'
+    url: http://www.gutenberg.org/2009/agents/48149
+description: ''
+gutenberg_issued: '2020-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62994'
+  lccn: '89013670'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Official national park handbook; 139
+subjects:
+- !lcc 'F721'
+- !lcsh 'Craters of the Moon National Monument (Idaho) -- Guidebooks'
+- !lcsh 'Geology -- Idaho -- Craters of the Moon National Monument -- Guidebooks'
+- GITenberg
+title: 'Craters of the Moon
+
+  A Guide to Craters of the Moon National Monument, Idaho'
+url: http://www.gutenberg.org/ebooks/62994
